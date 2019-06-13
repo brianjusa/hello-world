@@ -1,3 +1,8 @@
 # hello-world
 This is an idea repository
-My name is Brian. I am learning about github.
+
+My name is Brian. 
+
+I am learning about github.
+
+This is a test.
